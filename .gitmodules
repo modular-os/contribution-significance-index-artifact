@@ -1,0 +1,3 @@
+[submodule "contribution-significance-index"]
+	path = contribution-significance-index
+	url = https://github.com/modular-os/contribution-significance-index
